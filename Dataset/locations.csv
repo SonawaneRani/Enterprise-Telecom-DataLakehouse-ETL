@@ -1,0 +1,43 @@
+location_id,city,state,zone,pincode,region_type
+1,Mumbai,Maharashtra,North,126225,Rural
+2,Pune,Maharashtra,North,356787,Urban
+3,Pune,Maharashtra,South,246316,Rural
+4,Nagpur,Maharashtra,North,809570,Rural
+5,Delhi,Delhi,North,719176,Semi-Urban
+6,Bengaluru,Karnataka,North,131244,Urban
+7,Mysuru,Karnataka,North,343962,Rural
+8,Chennai,Tamil Nadu,North,688508,Urban
+9,Coimbatore,Tamil Nadu,North,331148,Semi-Urban
+10,Coimbatore,Tamil Nadu,South,717889,Semi-Urban
+11,Hyderabad,Telangana,North,895667,Urban
+12,Ahmedabad,Gujarat,North,456778,Semi-Urban
+13,Ahmedabad,Gujarat,South,263032,Urban
+14,Surat,Gujarat,North,207175,Urban
+15,Surat,Gujarat,South,498382,Urban
+16,Jaipur,Rajasthan,North,988662,Semi-Urban
+17,Jaipur,Rajasthan,South,733052,Semi-Urban
+18,Jodhpur,Rajasthan,North,865179,Semi-Urban
+19,Lucknow,Uttar Pradesh,North,496922,Urban
+20,Kanpur,Uttar Pradesh,North,969693,Rural
+21,Kanpur,Uttar Pradesh,South,748564,Semi-Urban
+22,Kolkata,West Bengal,North,838797,Urban
+23,Patna,Bihar,North,793384,Urban
+24,Bhopal,Madhya Pradesh,North,183667,Urban
+25,Bhopal,Madhya Pradesh,South,205907,Semi-Urban
+26,Indore,Madhya Pradesh,North,575435,Rural
+27,Indore,Madhya Pradesh,South,974628,Semi-Urban
+28,Chandigarh,Punjab,North,488162,Semi-Urban
+29,Amritsar,Punjab,North,802729,Semi-Urban
+30,Kochi,Kerala,North,738720,Rural
+31,Thiruvananthapuram,Kerala,North,660086,Rural
+32,Guwahati,Assam,North,271339,Semi-Urban
+33,Bhubaneswar,Odisha,North,383060,Rural
+34,Bhubaneswar,Odisha,South,821590,Rural
+35,Ranchi,Jharkhand,North,817870,Semi-Urban
+36,Raipur,Chhattisgarh,North,340174,Urban
+37,Dehradun,Uttarakhand,North,520651,Semi-Urban
+38,Dehradun,Uttarakhand,South,169403,Urban
+39,Shimla,Himachal Pradesh,North,322955,Rural
+40,Shimla,Himachal Pradesh,South,623481,Semi-Urban
+41,Panaji,Goa,North,249811,Semi-Urban
+42,Panaji,Goa,South,246413,Urban

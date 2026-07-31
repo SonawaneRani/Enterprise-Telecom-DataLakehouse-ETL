@@ -1,0 +1,16 @@
+plan_id,plan_name,plan_type,monthly_price,data_quota_gb,voice_minutes,sms_per_day,validity_days,is_5g_enabled
+1,Basic Saver,Postpaid,1132.17,50,Unlimited,100,56,True
+2,Smart 199,Prepaid,787.81,1.5,100,50,30,True
+3,Value 249,Postpaid,913.79,50,1000,Unlimited,84,False
+4,Super 299,Prepaid,1035.41,1.5,Unlimited,100,365,False
+5,Family 499,Prepaid,474.58,2,1000,50,365,False
+6,Unlimited 599,Prepaid,785.14,1.5,500,Unlimited,180,True
+7,Data Booster 349,Prepaid,591.18,2,Unlimited,Unlimited,28,False
+8,Weekender 99,Postpaid,77.24,10,500,50,28,True
+9,Student Plan 149,Prepaid,173.2,999,100,Unlimited,30,True
+10,Elite 999,Postpaid,1421.93,2,500,Unlimited,180,False
+11,Business Pro 1499,Prepaid,1395.92,3,500,100,365,False
+12,Night Owl 199,Postpaid,1353.44,999,100,50,30,True
+13,Roaming Plus 799,Postpaid,79.5,3,Unlimited,50,28,True
+14,Combo 399,Prepaid,380.97,1,500,50,180,True
+15,Lite 79,Postpaid,1019.02,3,Unlimited,50,365,False
